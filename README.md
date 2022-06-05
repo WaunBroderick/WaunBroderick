@@ -1,5 +1,5 @@
 <div align="center">
-  <b>Hi, I'm Waun Broderick <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></b> <br> 
+  <b>Hi, I'm Waun Broderick</b> <br> 
   CTO & Co-Founder @ <a href="https://siftr.net" target="_blank">Siftr</a> && <a href="https://labnetik.ca" target="_blank">Labnetik</a>
   
 ![](https://komarev.com/ghpvc/?username=your-github-username&color=lightgrey)
