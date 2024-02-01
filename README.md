@@ -1,6 +1,6 @@
 <div align="center">
   <b>Hi, I'm Waun Broderick</b> <br> 
-  CTO & Co-Founder @ <a href="https://siftr.net" target="_blank">Siftr</a> && <a href="https://labnetik.ca" target="_blank">Labnetik</a>
+  Technical Lead & Senior Full-Stack Engineer @ <a href="[https://siftr.net](https://www.forumvc.com/)" target="_blank">Forum Ventures</a> 
   
 ![](https://komarev.com/ghpvc/?username=your-github-username&color=lightgrey)
 
