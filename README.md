@@ -1,6 +1,6 @@
 <div align="center">
   <b>Hi, I'm Waun Broderick</b> <br> 
-  Technical Lead & Senior Full-Stack Engineer @ <a href="[https://siftr.net](https://www.forumvc.com/)" target="_blank">Forum Ventures</a> 
+  Senior Engineer @ <a href="[https://shopify.com](https://www.shopify.com/)" target="_blank">Shopify</a> 
   
 ![](https://komarev.com/ghpvc/?username=your-github-username&color=lightgrey)
 
